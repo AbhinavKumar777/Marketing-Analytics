@@ -3,7 +3,7 @@
 ## Project Demo & Key Insights
 
 **Demo:** 
-[![Project Overview](images/Overview.png)](images/Overview.png)
+[![Project Overview](Images/Overview.png)](Images/Overview.png)
 
 
 **Key Insights at a Glance:**  
