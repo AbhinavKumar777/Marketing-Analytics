@@ -2,7 +2,7 @@
 
 ## Project Demo & Key Insights
 
-**Demo:** 
+**Overview:** 
 [![Project Overview](Images/Overview.png)](Images/Overview.png)
 
 
